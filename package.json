@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-top-nav-pa",
+  "description": "Particle Analytics top nav plugin for gitbook",
+  "main": "index.js",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": ">=2.5.1"
+  },
+  "homepage": "https://github.com/particle-analytics/gitbook-plugin-top-nav-pa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/particle-analytics/gitbook-plugin-top-nav-pa"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/particle-analytics/gitbook-plugin-top-nav-pa/issues"
+  },
+  "gitbook": {
+    "properties": {}
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}
